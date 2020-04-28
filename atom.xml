@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈昊的个人博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://creativewriting.github.io/"/>
+  <updated>2020-04-28T04:32:10.383Z</updated>
+  <id>https://creativewriting.github.io/</id>
+  
+  <author>
+    <name>陈昊</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文档工程师之文档类型</title>
+    <link href="https://creativewriting.github.io/2020/02/28/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E6%96%87%E6%A1%A3%E7%B1%BB%E5%9E%8B/"/>
+    <id>https://creativewriting.github.io/2020/02/28/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E6%96%87%E6%A1%A3%E7%B1%BB%E5%9E%8B/</id>
+    <published>2020-02-28T14:39:11.000Z</published>
+    <updated>2020-04-28T04:32:10.383Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;技术文档内容类型有哪些?
+        
+      
+    
+    </summary>
+    
+    
+      <category term="内在提升" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/"/>
+    
+      <category term="技能爱好" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/"/>
+    
+      <category term="工作技能" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/%E5%B7%A5%E4%BD%9C%E6%8A%80%E8%83%BD/"/>
+    
+    
+      <category term="文档工程师" scheme="https://creativewriting.github.io/tags/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文档工程师之着陆页</title>
+    <link href="https://creativewriting.github.io/2020/02/27/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E7%9D%80%E9%99%86%E9%A1%B5/"/>
+    <id>https://creativewriting.github.io/2020/02/27/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E7%9D%80%E9%99%86%E9%A1%B5/</id>
+    <published>2020-02-27T17:49:38.000Z</published>
+    <updated>2020-04-28T04:32:10.383Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h3&gt;&lt;p&gt;着陆页（Landing Page）也称落地页、引导页，在互联网营销中，引导页就是&lt;strong&gt;当潜在用户点击广告或者利用搜索引擎搜索后显示给用户的网页&lt;/strong&gt;。一般这个页面会显示和所点击广告或搜索结果链接相关的扩展内容，而且&lt;strong&gt;这个页面应该是针对某个关键字（或短语）做过搜索引擎优化的。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;设计&quot;&gt;&lt;a href=&quot;#设计&quot; class=&quot;headerlink&quot; title=&quot;设计&quot;&gt;&lt;/a&gt;设计&lt;/h3&gt;&lt;p&gt;以微软docs为例。从2019年8月开始，实施了基于卡片的着陆页设计，该设计取代了以前的设计。此新设计具有以下优点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过创建更密集的信息&lt;strong&gt;显示更多内容&lt;/strong&gt;来改善浏览体验，以便用户&lt;strong&gt;更快地找到内容&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;更&lt;strong&gt;专注于最重要&lt;/strong&gt;的客户任务，产品或服务&lt;/li&gt;
+&lt;li&gt;为中心页（Hub page）和登陆页面（Landing Page）创建一致的用户体验&lt;/li&gt;
+&lt;li&gt;支持复杂程度和深度各异的产品&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;更简单的设计&lt;/strong&gt;
+    
+    </summary>
+    
+    
+      <category term="内在提升" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/"/>
+    
+      <category term="技能爱好" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/"/>
+    
+      <category term="工作技能" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/%E5%B7%A5%E4%BD%9C%E6%8A%80%E8%83%BD/"/>
+    
+    
+      <category term="文档工程师" scheme="https://creativewriting.github.io/tags/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文档工程师之发布文章</title>
+    <link href="https://creativewriting.github.io/2020/01/19/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0/"/>
+    <id>https://creativewriting.github.io/2020/01/19/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0/</id>
+    <published>2020-01-19T17:49:38.000Z</published>
+    <updated>2020-04-28T04:32:10.383Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;1-创建账号&quot;&gt;&lt;a href=&quot;#1-创建账号&quot; class=&quot;headerlink&quot; title=&quot;1. 创建账号&quot;&gt;&lt;/a&gt;1. 创建账号&lt;/h4&gt;&lt;p&gt;文档工程师需要用到github，请先创建github。&lt;/p&gt;
+&lt;h4 id=&quot;2-安装Git-和-authoring-tool&quot;&gt;&lt;a href=&quot;#2-安装Git-和-authoring-tool&quot; class=&quot;headerlink&quot; title=&quot;2. 安装Git 和 authoring tool&quot;&gt;&lt;/a&gt;2. 安装Git 和 authoring tool&lt;/h4&gt;&lt;p&gt;下载并安装以下软件和插件&lt;br&gt;Git：&lt;a href=&quot;https://git-scm.com/&quot;&gt;https://git-scm.com/&lt;/a&gt;&lt;br&gt;VScode：&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;https://code.visualstudio.com/&lt;/a&gt;&lt;br&gt;authoring tool：Docs Authoring Pack&lt;/p&gt;
+&lt;h4 id=&quot;3-Fork-想要发布到的repo&quot;&gt;&lt;a href=&quot;#3-Fork-想要发布到的repo&quot; class=&quot;headerlink&quot; title=&quot;3. Fork 想要发布到的repo&quot;&gt;&lt;/a&gt;3. Fork 想要发布到的repo&lt;/h4&gt;&lt;p&gt;到gitbub上找到相关的docs repo，点击Fork。&lt;/p&gt;
+&lt;h4 id=&quot;4-将fork到的repo-克隆到本地&quot;&gt;&lt;a href=&quot;#4-将fork到的repo-克隆到本地&quot; class=&quot;headerlink&quot; title=&quot;4. 将fork到的repo 克隆到本地&quot;&gt;&lt;/a&gt;4. 将fork到的repo 克隆到本地&lt;/h4&gt;&lt;p&gt;在本地新建项目文件夹并在文件夹下克隆fork到的repo到本地&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;&amp;lt;chenhao2020&amp;gt;&amp;#x2F;chenaho2020-docs-pr.git&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h4 id=&quot;5-设置本地git-remote&quot;&gt;&lt;a href=&quot;#5-设置本地git-remote&quot; class=&quot;headerlink&quot; title=&quot;5. 设置本地git remote&quot;&gt;&lt;/a&gt;5. 设置本地git remote&lt;/h4&gt;&lt;p&gt;主要添加Origin&amp;amp;Upstream的地址，相关命令如下。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git config --global user.name &lt;span class=&quot;string&quot;&gt;&quot;chenhao2020&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git config --global user.email &lt;span class=&quot;string&quot;&gt;&quot;xxxxxx@qq.com&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git config --global core.editor &lt;span class=&quot;string&quot;&gt;&quot;code --wait&quot;&lt;/span&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git config --global -l&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git remote -v 查看当前源地址&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git remote add origin https://github.com/chenhao2020/chenhao2020-docs.git&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git remote add upstream https://github.com/chenhao2020/chenhao2020-docs-pr.git&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git remote rm origin 删除当前origin&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git remote remove upstream 删除当前upstream&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="内在提升" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/"/>
+    
+      <category term="技能爱好" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/"/>
+    
+      <category term="工作技能" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/%E5%B7%A5%E4%BD%9C%E6%8A%80%E8%83%BD/"/>
+    
+    
+      <category term="文档工程师" scheme="https://creativewriting.github.io/tags/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>英文技术文档工程师常用英语词汇一</title>
+    <link href="https://creativewriting.github.io/2020/01/19/%E8%8B%B1%E6%96%87%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%B8%B8%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87%E4%B8%80/"/>
+    <id>https://creativewriting.github.io/2020/01/19/%E8%8B%B1%E6%96%87%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%B8%B8%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87%E4%B8%80/</id>
+    <published>2020-01-19T17:48:38.000Z</published>
+    <updated>2020-04-28T04:32:10.383Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;英文文档常见句型或词汇&quot;&gt;&lt;a href=&quot;#英文文档常见句型或词汇&quot; class=&quot;headerlink&quot; title=&quot;英文文档常见句型或词汇&quot;&gt;&lt;/a&gt;英文文档常见句型或词汇&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;This article shows how to&lt;br&gt;This tutorial shows how to&lt;br&gt;This article describes how to&lt;br&gt;The following image shows&lt;br&gt;This article addresses the common merge conflict scenarios and provides tips, tools, and warnings.  &lt;/li&gt;
+&lt;li&gt;vertical ellipsis 垂直省略号&lt;/li&gt;
+&lt;li&gt;In a browser, go to the GitHub repository page   (for example, &lt;a href=&quot;https://github.com/microsoftdocs/azure-docs-pr&quot;&gt;https://github.com/microsoftdocs/azure-docs-pr&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Workflow&lt;/li&gt;
+&lt;li&gt;In this tutorial, you learn how to:&lt;/li&gt;
+&lt;li&gt;Prerequisites：必备条件&lt;br&gt;Prerequisites and assumptions&lt;/li&gt;
+&lt;li&gt;backtick character （`）代码块&lt;br&gt;brackets 括号&lt;br&gt;with a tilde (~) appended 波形号，代字号&lt;br&gt;The asterisk character * is encoded as %2A&lt;br&gt;Selector 选择器；下拉菜单&lt;br&gt;Escape special characters like &amp;lt; with a backslash 别用反斜线 &lt;br&gt;Hash (#) symbol &lt;/li&gt;
+&lt;li&gt;Use the Ctrl+` keyboard shortcut with the backtick character. （组合键表达）
+    
+    </summary>
+    
+    
+      <category term="内在提升" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/"/>
+    
+      <category term="技能爱好" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/"/>
+    
+      <category term="工作技能" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/%E5%B7%A5%E4%BD%9C%E6%8A%80%E8%83%BD/"/>
+    
+    
+      <category term="文档工程师" scheme="https://creativewriting.github.io/tags/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文档工程师之写作</title>
+    <link href="https://creativewriting.github.io/2020/01/19/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E5%86%99%E4%BD%9C/"/>
+    <id>https://creativewriting.github.io/2020/01/19/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E5%86%99%E4%BD%9C/</id>
+    <published>2020-01-19T16:49:38.000Z</published>
+    <updated>2020-04-28T04:32:10.383Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;文档工程师之写作&quot;&gt;&lt;a href=&quot;#文档工程师之写作&quot; class=&quot;headerlink&quot; title=&quot;文档工程师之写作&quot;&gt;&lt;/a&gt;文档工程师之写作&lt;/h2&gt;&lt;p&gt;写作过程：计划–结构–写作–检查–发布–评估&lt;/p&gt;
+&lt;h3 id=&quot;计划单元：计划内容&quot;&gt;&lt;a href=&quot;#计划单元：计划内容&quot; class=&quot;headerlink&quot; title=&quot;计划单元：计划内容&quot;&gt;&lt;/a&gt;计划单元：计划内容&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;确定首要任务&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用用户故事–您可以只听取以客户为中心的用户故事，并开始编写内容以解决这些问题。”作为一名…的用户，我想要实现…的目标…以…的原因”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优先处理&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;内容工作也需要优先处理规则&lt;br&gt;写出20％的内容已解决客户80％的需求&lt;br&gt;结构单元：结构内容&lt;br&gt;选择正确的内容类型，见内容类型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;创建目录&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目录（TOC）包含必需和可选组件。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;登陆页面（必填）&lt;br&gt;登陆页面是服务或功能文档的入口点&lt;br&gt;使用户了解最重要的内容并突出他们可能感兴趣的内容&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;概述（必填）&lt;br&gt;概述是对功能或服务的简明介绍。&lt;br&gt;“我为什么要关心” 这个问题&lt;br&gt;尽可能包含体系结构或流程图，以说明概念。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;快速入门（推荐）&lt;br&gt;可在短时间（10分钟内）为用户提供有意义的功能，而无需过于深入。&lt;br&gt;尽快入门的步骤；简介尽量简短&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="内在提升" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/"/>
+    
+      <category term="技能爱好" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/"/>
+    
+      <category term="工作技能" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/%E5%B7%A5%E4%BD%9C%E6%8A%80%E8%83%BD/"/>
+    
+    
+      <category term="文档工程师" scheme="https://creativewriting.github.io/tags/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文档工程师Github常用命令集</title>
+    <link href="https://creativewriting.github.io/2019/12/20/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88Github%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%9B%86%E4%B8%80/"/>
+    <id>https://creativewriting.github.io/2019/12/20/%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88Github%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%9B%86%E4%B8%80/</id>
+    <published>2019-12-20T14:39:11.000Z</published>
+    <updated>2020-04-28T04:32:10.383Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;常用命令的&quot;&gt;&lt;a href=&quot;#常用命令的&quot; class=&quot;headerlink&quot; title=&quot;常用命令的&quot;&gt;&lt;/a&gt;常用命令的&lt;/h4&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td
+        
+      
+    
+    </summary>
+    
+    
+      <category term="内在提升" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/"/>
+    
+      <category term="技能爱好" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/"/>
+    
+      <category term="工作技能" scheme="https://creativewriting.github.io/categories/%E5%86%85%E5%9C%A8%E6%8F%90%E5%8D%87/%E6%8A%80%E8%83%BD%E7%88%B1%E5%A5%BD/%E5%B7%A5%E4%BD%9C%E6%8A%80%E8%83%BD/"/>
+    
+    
+      <category term="github" scheme="https://creativewriting.github.io/tags/github/"/>
+    
+  </entry>
+  
+</feed>
